@@ -1,0 +1,320 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:component",
+    "component": "minecraft:custom_name",
+    "cases": [
+      {
+        "when": [
+          "Zombie",
+          "zombie"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/zombie_stand"
+        }
+      },
+      {
+        "when": [
+          "wide Alex",
+          "Wide alex",
+          "Wide Alex",
+          "wide alex",
+          "wide Ari",
+          "Wide ari",
+          "Wide Ari",
+          "wide ari",
+          "wide Efe",
+          "Wide efe",
+          "Wide Efe",
+          "wide efe",
+          "wide Kai",
+          "Wide kai",
+          "Wide Kai",
+          "wide kai",
+          "wide Makena",
+          "Wide makena",
+          "Wide Makena",
+          "wide makena",
+          "wide Noor",
+          "Wide noor",
+          "Wide Noor",
+          "wide noor",
+          "wide Steve",
+          "Wide steve",
+          "Wide Steve",
+          "wide steve",
+          "wide Sunny",
+          "Wide sunny",
+          "Wide Sunny",
+          "wide sunny",
+          "wide Zuri",
+          "Wide zuri",
+          "Wide Zuri",
+          "wide zuri"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/wide_player_stand"
+        }
+      },
+      {
+        "when": [
+          "slim Alex",
+          "Slim alex",
+          "Slim Alex",
+          "slim alex",
+          "slim Ari",
+          "Slim ari",
+          "Slim Ari",
+          "slim ari",
+          "slim Efe",
+          "Slim efe",
+          "Slim Efe",
+          "slim efe",
+          "slim Kai",
+          "Slim kai",
+          "Slim Kai",
+          "slim kai",
+          "slim Makena",
+          "Slim makena",
+          "Slim Makena",
+          "slim makena",
+          "slim Noor",
+          "Slim noor",
+          "Slim Noor",
+          "slim noor",
+          "slim Steve",
+          "Slim steve",
+          "Slim Steve",
+          "slim steve",
+          "slim Sunny",
+          "Slim sunny",
+          "Slim Sunny",
+          "slim sunny",
+          "slim Zuri",
+          "Slim zuri",
+          "Slim Zuri",
+          "slim zuri"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/slim_player_stand"
+        }
+      },
+      {
+        "when": [
+          "Villager",
+          "villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Desert Villager",
+          "desert villager",
+          "Desert villager",
+          "desert Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/desert_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Jungle Villager",
+          "jungle villager",
+          "Jungle villager",
+          "jungle Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/jungle_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Plains Villager",
+          "plains villager",
+          "Plains villager",
+          "plains Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/plains_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Savanna Villager",
+          "savanna villager",
+          "Savanna villager",
+          "savanna Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/savanna_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Snow Villager",
+          "snow villager",
+          "Snow villager",
+          "snow Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/snow_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Swamp Villager",
+          "swamp villager",
+          "Swamp villager",
+          "swamp Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/swamp_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Taiga Villager",
+          "taiga villager",
+          "Taiga villager",
+          "taiga Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/taiga_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "Zombie Villager",
+          "zombie villager",
+          "Zombie villager",
+          "zombie Villager"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/zombie_villager_stand"
+        }
+      },
+      {
+        "when": [
+          "witch",
+          "Witch"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/witch_stand"
+        }
+      },
+      {
+        "when": [
+          "evoker",
+          "Evoker"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/evoker_stand"
+        }
+      },
+      {
+        "when": [
+          "Piglin",
+          "piglin"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/piglin_stand"
+        }
+      },
+      {
+        "when": [
+          "piglin Brute",
+          "Piglin brute",
+          "Piglin Brute",
+          "piglin brute"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/piglin_brute_stand"
+        }
+      },
+      {
+        "when": [
+          "zombified piglin",
+          "Zombified piglin",
+          "Zombified Piglin",
+          "zombified Piglin"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/zombified_piglin_stand"
+        }
+      },
+      {
+        "when": [
+          "Skeleton",
+          "skeleton"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/skeleton_stand"
+        }
+      },
+      {
+        "when": [
+          "wither skeleton",
+          "Wither Skeleton",
+          "Wither skeleton",
+          "wither Skeleton"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/wither_skeleton_stand"
+        }
+      },
+      {
+        "when": [
+          "Husk",
+          "husk"
+        ],
+        "model": {
+          "type": "minecraft:model",
+          "model": "item/husk_stand"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "property": "minecraft:display_context",
+      "cases": [
+        {
+          "when": [
+            "gui",
+            "ground",
+            "fixed"
+          ],
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/armor_stand"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "item/normal_stand"
+      }
+    }
+  }
+}

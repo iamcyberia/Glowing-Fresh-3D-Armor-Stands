@@ -1,0 +1,9 @@
+{
+	"format_version": "1.21.11",
+	"credit": "cyberia was here",
+	"parent": "minecraft:item/villager_stand",
+	"textures": {
+		"particle": "item/taiga_villager_stand",
+		"villager_stands": "item/taiga_villager_stand"
+	}
+}

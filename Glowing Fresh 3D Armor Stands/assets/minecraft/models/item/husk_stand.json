@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/zombie_stand",
+  "textures": {
+    "0": "minecraft:item/husk_stand",
+    "particle": "minecraft:item/husk_stand"
+  }
+}

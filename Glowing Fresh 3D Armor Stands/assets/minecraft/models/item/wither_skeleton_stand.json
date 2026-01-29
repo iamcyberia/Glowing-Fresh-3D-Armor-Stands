@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/skeleton_stand",
+  "textures": {
+    "0": "minecraft:item/wither_skeleton_stand",
+    "particle": "minecraft:item/wither_skeleton_stand"
+  }
+}

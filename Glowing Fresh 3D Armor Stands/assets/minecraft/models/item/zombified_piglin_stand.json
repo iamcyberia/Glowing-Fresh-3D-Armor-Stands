@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/piglin_stand",
+  "textures": {
+    "0": "minecraft:item/zombified_piglin_stand",
+    "particle": "minecraft:item/zombified_piglin_stand"
+  }
+}
