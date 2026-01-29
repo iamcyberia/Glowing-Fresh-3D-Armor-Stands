@@ -4,7 +4,9 @@
 
 <hr>
 
-<img width="2001" height="99" alt="Nameable" src="https://github.com/user-attachments/assets/21f8cc41-d27f-4a2b-b071-8d250949739a" /> <br/>
+<p align="center">
+<img width="500" src="https://github.com/user-attachments/assets/44780c6c-4cec-4bee-8267-967f358a8f2e" />
+</p>
 
 <p align="center">
   <img width="500px" src="https://github.com/user-attachments/assets/1662386b-0f96-436b-97d5-7ead8602adee" alt="animated" />
@@ -82,6 +84,82 @@
   <tr>
     <td><img width="100" height="100" alt="Husk" src="https://github.com/user-attachments/assets/0054cf90-09a6-4463-a36f-c37cb46484d2" /></td>
     <td>"Husk / husk" </td>
+  </tr>
+</table>
+
+<p align="center">
+<img width="500" src="https://github.com/user-attachments/assets/ae4dd080-32c2-47fd-9f61-40243e0078b6" />
+</p>
+
+<table>
+  <tr>
+    <th>Wide Variant</th>
+    <th>Accepted Names</th>
+    <th>Slim Variant</th>
+    <th>Accepted Names</th>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Sunny", "Wide sunny", "wide sunny", "wide Sunny"</td>
+    <td>image</td>
+    <td>"Slim Sunny", "Slim sunny", "slim sunny", "slim Sunny"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Kai", "Wide kai", "wide kai", "wide Kai"</td>
+    <td>image</td>
+    <td>"Slim Kai", "Slim kai", "slim kai", "slim Kai"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Makena", "Wide makena", "wide makena", "wide Makena"</td>
+    <td>image</td>
+    <td>"Slim Makena", "Slim makena", "slim makena", "slim Makena"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Steve", "Wide steve", "wide steve", "wide Steve"</td>
+    <td>image</td>
+    <td>"Slim Steve", "Slim steve", "slim steve", "slim Steve"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Alex", "Wide alex", "wide alex", "wide Alex"</td>
+    <td>image</td>
+    <td>"Slim Alex", "Slim alex", "slim alex", "slim Alex"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Zuri", "Wide zuri", "wide zuri", "wide Zuri"</td>
+    <td>image</td>
+    <td>"Slim Zuri", "Slim zuri", "slim zuri", "slim Zuri"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Efe", "Wide efe", "wide efe", "wide Efe"</td>
+    <td>image</td>
+    <td>"Slim Efe", "Slim efe", "slim efe", "slim Efe"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Ari", "Wide ari", "wide ari", "wide Ari"</td>
+    <td>image</td>
+    <td>"Slim Ari", "Slim ari", "slim ari", "slim Ari"</td>
+  </tr>
+
+  <tr>
+    <td>image</td>
+    <td>"Wide Noor", "Wide noor", "wide noor", "wide Noor"</td>
+    <td>image</td>
+    <td>"Slim Noor", "Slim noor", "slim noor", "slim Noor"</td>
   </tr>
 </table>
 
