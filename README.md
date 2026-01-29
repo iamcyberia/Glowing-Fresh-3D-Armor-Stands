@@ -13,71 +13,71 @@
 
 <table align="center" style="width:100%">
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Villager" src="https://github.com/user-attachments/assets/7ca591b5-e231-4d55-b096-1a8c69072fcc" /></td>
     <td>"Villager / villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Dessert Villager" src="https://github.com/user-attachments/assets/5f6828c3-18bf-4032-81cb-7b59c3ac07f4" /></td>
     <td>"Dessert Villager / dessert villager / Dessert villager / dessert Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Jungle Villager" src="https://github.com/user-attachments/assets/ac937eda-31d3-437d-b9a9-313e02153d89" /></td>
     <td>"Jungle Villager / jungle villager / Jungle villager / jungle Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Plains Villager" src="https://github.com/user-attachments/assets/7ca591b5-e231-4d55-b096-1a8c69072fcc" /></td>
     <td>"Plains Villager / plains villager / Plains villager / plains Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Savanna Villager" src="https://github.com/user-attachments/assets/53063fd9-99df-4f4e-b1b0-78d0128fd987" /></td>
     <td>"Savanna Villager / savanna villager / Savanna villager / savanna Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Snow Villager" src="https://github.com/user-attachments/assets/f1f9650d-9db3-490b-b96f-3b1ff8ce2fa7" /></td>
     <td>"Snow Villager / snow villager / Snow villager / snow Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Swamp Villager" src="https://github.com/user-attachments/assets/3e1fc8d1-f0c2-42be-98e5-ef428b9e8363" /></td>
     <td>"Swamp Villager / swamp villager / Swamp villager / swamp Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Taiga Villager" src="https://github.com/user-attachments/assets/6b16962b-924b-41d1-8131-961a6542aefc" /></td>
     <td>"Taiga Villager / taiga villager / Taiga villager / taiga Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Zombie Villager" src="" /></td>
     <td>"Zombie Villager / zombie villager / Zombie villager / zombie Villager" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Witch" src="" /></td>
     <td>"Witch / witch" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Evoker" src="" /></td>
     <td>"Evoker / evoker" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Piglin" src="" /></td>
     <td>"Piglin / piglin" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Piglin Brute" src="" /></td>
     <td>"Piglin Brute / piglin brute / Piglin brute / piglin Brute" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Zombified Piglin" src="" /></td>
     <td>"Zombified Piglin / zombified piglin / Zombified piglin / zombified Piglin" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Skeleton" src="" /></td>
     <td>"Skeleton / skeleton" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Wither Skeleton" src="" /></td>
     <td>"Wither Skeleton / wither skeleton / Wither skeleton / wither Skeleton" </td>
   </tr>
   <tr>
-    <td><img width="100" height="100" alt="apple" src="https://github.com/user-attachments/assets/896ffdb6-c020-464d-9fa1-b2079b880337" /></td>
+    <td><img width="100" height="100" alt="Husk" src="" /></td>
     <td>"Husk / husk" </td>
   </tr>
 </table>
