@@ -22,7 +22,7 @@
     <td>"Dessert Villager / dessert villager / Dessert villager / dessert Villager" </td>
   </tr>
   <tr>
-    <td><img width="125" height="125" alt="Jungle Villager" src="https://github.com/user-attachments/assets/ac937eda-31d3-437d-b9a9-313e02153d89" /></td>
+    <td><img width="100" height="100" alt="Jungle Villager" src="https://github.com/user-attachments/assets/ac937eda-31d3-437d-b9a9-313e02153d89" /></td>
     <td>"Jungle Villager / jungle villager / Jungle villager / jungle Villager" </td>
   </tr>
   <tr>
