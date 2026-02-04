@@ -19,7 +19,7 @@
   </tr>
   <tr>
     <td><img width="100" height="100" alt="Dessert Villager" src="https://github.com/user-attachments/assets/5f6828c3-18bf-4032-81cb-7b59c3ac07f4" /></td>
-    <td>"Dessert Villager / dessert villager / Dessert villager / dessert Villager" </td>
+    <td>"Desert Villager / desert villager / Desert villager / desert Villager" </td>
   </tr>
   <tr>
     <td><img width="100" height="100" alt="Jungle Villager" src="https://github.com/user-attachments/assets/ac937eda-31d3-437d-b9a9-313e02153d89" /></td>
