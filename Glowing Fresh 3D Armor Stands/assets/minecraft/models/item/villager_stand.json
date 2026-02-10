@@ -1,9 +1,10 @@
 {
-	"format_version": "1.9.0",
+	"format_version": "1.21.11",
 	"credit": "Made with Cyber",
-	"texture_size": [32, 32],
 	"textures": {
-		"villager_stands": "item/plains_villager_stand"
+		"1": "item/type/eyebrow",
+		"particle": "item/type/eyebrow",
+		"villager_stands": "item/type/plains"
 	},
 	"elements": [
 		{
@@ -89,6 +90,146 @@
 				"up": {"uv": [13.5, 11.5, 9, 10.5], "texture": "#villager_stands"},
 				"down": {"uv": [13.5, 11.5, 9, 12.5], "texture": "#villager_stands"}
 			}
+		},
+		{
+			"name": "brow1",
+			"from": [5, 14, 4.99],
+			"to": [11, 15, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [0, 0, 1, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow2",
+			"from": [5, 14.025, 4.99],
+			"to": [11, 15.025, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [1, 0, 2, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [1, 0, 2, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow3",
+			"from": [5, 14.075, 4.99],
+			"to": [11, 15.075, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [2, 0, 3, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [2, 0, 3, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow4",
+			"from": [5, 14.15, 4.99],
+			"to": [11, 15.15, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [3, 0, 4, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [3, 0, 4, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow5",
+			"from": [5, 14.225, 4.99],
+			"to": [11, 15.225, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [4, 0, 5, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [4, 0, 5, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow6",
+			"from": [5, 14.35, 4.99],
+			"to": [11, 15.35, 4.99],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 14.675, 4.99]},
+			"faces": {
+				"north": {"uv": [5, 0, 6, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [5, 0, 6, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow7",
+			"from": [5, 14, 4.99],
+			"to": [11, 15, 4.99],
+			"rotation": {"angle": 0.25, "axis": "z", "origin": [8, 14.5, 4.99]},
+			"faces": {
+				"north": {"uv": [6, 0, 7, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [6, 0, 7, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow8",
+			"from": [5, 14, 4.99],
+			"to": [11, 15, 4.99],
+			"rotation": {"angle": 0.75, "axis": "z", "origin": [8, 14.5, 4.99]},
+			"faces": {
+				"north": {"uv": [7, 0, 8, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [7, 0, 8, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow9",
+			"from": [5, 14, 4.99],
+			"to": [11, 15, 4.99],
+			"rotation": {"angle": 1.5, "axis": "z", "origin": [8, 14.5, 4.99]},
+			"faces": {
+				"north": {"uv": [8, 0, 9, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [8, 0, 9, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
+		},
+		{
+			"name": "brow10",
+			"from": [5, 14, 4.99],
+			"to": [11, 15, 4.99],
+			"rotation": {"angle": 2.5, "axis": "z", "origin": [8, 14.5, 4.99]},
+			"faces": {
+				"north": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"south": {"uv": [9, 0, 10, 1], "texture": "#1"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#1"},
+				"up": {"uv": [0, 0, 0, 0], "texture": "#1"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#1"}
+			}
 		}
 	],
 	"gui_light": "front",
@@ -104,14 +245,14 @@
 			"scale": [0.52, 0.52, 0.52]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 122, 0],
-			"translation": [2.75, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [9, 130, -7.5],
+			"translation": [0.25, 4.5, 2],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 122, 0],
-			"translation": [2.75, 4, 0],
-			"scale": [0.5, 0.5, 0.5]
+			"rotation": [9, 130, -7.5],
+			"translation": [0.25, 4.5, 2],
+			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
 			"translation": [0, 2.25, 0],
@@ -136,6 +277,12 @@
 			"origin": [0, 6, 4],
 			"color": 0,
 			"children": [0, 1, 2, 3, 4, 5]
+		},
+		{
+			"name": "eyebrow",
+			"origin": [5.5, 11, 4],
+			"color": 0,
+			"children": [6, 7, 8, 9, 10, 11, 12, 13, 14, 15]
 		}
 	]
 }
