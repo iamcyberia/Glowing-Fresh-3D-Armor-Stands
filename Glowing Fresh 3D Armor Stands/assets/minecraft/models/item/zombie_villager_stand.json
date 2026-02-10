@@ -256,13 +256,13 @@
 			"scale": [0.52, 0.52, 0.52]
 		},
 		"firstperson_righthand": {
-			"rotation": [9, 130, -7.5],
-			"translation": [0.25, 4.5, 2],
+			"rotation": [-22.5, 130, 22.5],
+			"translation": [0.25, 4.25, 2],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [9, 130, -7.5],
-			"translation": [0.25, 4.5, 2],
+			"rotation": [-22.5, 130, 22.5],
+			"translation": [0.25, 4.25, 2],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
